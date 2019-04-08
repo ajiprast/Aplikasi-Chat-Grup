@@ -1,4 +1,4 @@
 # Aplikasi-Chat-Grup
-Aplikasi chatting
+Aplikasi chatting pendaki berbasis Android
 
-KNOWLEDGE IS FREE
+Ubah kontennya sesuai kontenmu, kalau bisa tata letaknya juga diubah.
